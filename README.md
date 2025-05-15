@@ -205,6 +205,11 @@ Berikut adalah langkah-langkah untuk mengkompilasi dan menjalankan kode ini pada
 
     Program akan menjalankan serangkaian operasi Binary Search Tree dan mencetak hasilnya ke konsol.
 
+## Ouput
+
+Berikut output atau hasil dari kode yang telah dijalankan seperti pada gambar dibawah ini:
+
+![Output Image](./assets/images/image.png)
 ### Catatan:
 
 * Pastikan semua file `.cpp` dan `.h` berada dalam struktur direktori yang sesuai.
